@@ -31,9 +31,11 @@ Heraldic artwork was created by **Evrach** and used with proper attribution.
 
 ## 📄 License & Credits
 
-This project is for educational and fan purposes only.  
+This project is licensed under the **GNU General Public License v3.0**.  
+You are free to use, modify, and distribute this software under the terms of the GPLv3. See the LICENSE file for full details.
+
 All heraldic images was performed by Evrach. It appears on La Garde de Nuit encyclopedia under a Creative Commons by-sa 4.0 licence.  
-No commercial use intended.
+Used with permission and for non-commercial, educational purposes only.
 
 
 

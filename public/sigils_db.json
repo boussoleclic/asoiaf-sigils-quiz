@@ -1,0 +1,4132 @@
+[
+  {
+    "idSigil": 1,
+    "textFull": "Blason de la maison Ardoise",
+    "text": "Ardoise",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/b3/Blason-ardoise-2014-V01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 2,
+    "textFull": "Blason de la maison Bolton",
+    "text": "Bolton",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/8a/Blason-bolton-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 1
+  },
+  {
+    "idSigil": 3,
+    "textFull": "Blason de la maison Burley",
+    "text": "Burley",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/6e/Blason-burley-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 4,
+    "textFull": "Blason de la maison Cardon",
+    "text": "Cardon",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/47/Blason-condon-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 5,
+    "textFull": "Blason de la maison Cassel",
+    "text": "Cassel",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e8/Blason-cassel-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 6,
+    "textFull": "Blason de la maison Cerwyn",
+    "text": "Cerwyn",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/6e/Blason-cerwyn-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 7,
+    "textFull": "Blason de la maison Corbois",
+    "text": "Corbois",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/1c/Blason-corbois-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 8,
+    "textFull": "Blason de la maison Dustin",
+    "text": "Dustin",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/cc/Blason-dustin-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 9,
+    "textFull": "Blason de la maison Flint de Pouce-Flint",
+    "text": "Flint de Pouce-Flint",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/76/Blason-flint2-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 10,
+    "textFull": "Blason de la maison Flint de La Veuve",
+    "text": "Flint de La Veuve",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/0a/Blason-flint1-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 11,
+    "textFull": "Blason de la maison Forestier",
+    "text": "Forestier",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/26/Blason-forestier-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 12,
+    "textFull": "Blason de la maison Glover",
+    "text": "Glover",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/17/Blason-glover-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 13,
+    "textFull": "Blason de la maison Harclay",
+    "text": "Harclay",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/44/Blason-harclay-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 14,
+    "textFull": "Blason de la maison Ironsmith",
+    "text": "Ironsmith",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/db/Blason-ironsmith-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 15,
+    "textFull": "Blason de la maison Karstark",
+    "text": "Karstark",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/18/Blason-karstark-2014-V01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 16,
+    "textFull": "Blason de la maison Knott",
+    "text": "Knott",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/8d/Blason-knott-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 17,
+    "textFull": "Blason de la maison Lake",
+    "text": "Lake",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a6/Blason-lake-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 18,
+    "textFull": "Blason de la maison Lideuil",
+    "text": "Lideuil",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f5/Blason-lideuil-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 19,
+    "textFull": "Blason de la maison Lightfoot",
+    "text": "Lightfoot",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e9/Blason-lightfoot-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 20,
+    "textFull": "Blason de la maison Locke",
+    "text": "Locke",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/cd/Blason-locke-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 21,
+    "textFull": "Blason de la maison Magnar",
+    "text": "Magnar",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/70/Blason-magnar-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 22,
+    "textFull": "Blason de la maison Manderly",
+    "text": "Manderly",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e7/Blason-manderly-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 23,
+    "textFull": "Blason de la maison Marsh",
+    "text": "Marsh",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/af/Blason-marsh-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 24,
+    "textFull": "Blason de la maison Mollen",
+    "text": "Mollen",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/b8/Blason-mollen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 25,
+    "textFull": "Blason de la maison Mormont",
+    "text": "Mormont",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/c1/Blason-mormont-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 1
+  },
+  {
+    "idSigil": 26,
+    "textFull": "Blason de la maison Mousse",
+    "text": "Mousse",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a2/Blason-mousse-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 27,
+    "textFull": "Blason de la maison Norroit",
+    "text": "Norroit",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d4/Blason-norroit-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 28,
+    "textFull": "Blason de la maison Omble",
+    "text": "Omble",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/48/Blason-omble-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 1
+  },
+  {
+    "idSigil": 29,
+    "textFull": "Blason de la maison Overton",
+    "text": "Overton",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/df/Blason-overton-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 30,
+    "textFull": "Blason de la maison Poole",
+    "text": "Poole",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/ef/Blason-poole-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 31,
+    "textFull": "Blason de la maison Puits",
+    "text": "Puits",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/73/Blason-puits-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 32,
+    "textFull": "Blason de la maison Reed",
+    "text": "Reed",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/b7/Blason-reed-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 1
+  },
+  {
+    "idSigil": 33,
+    "textFull": "Blason de la maison Rhamp",
+    "text": "Rhamp",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/b4/Blason-crowl-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 34,
+    "textFull": "Blason de la maison Ryswell",
+    "text": "Ryswell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e8/Blason-ryswell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 35,
+    "textFull": "Blason de la maison Saline",
+    "text": "Saline",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/8b/Blason-saline-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 36,
+    "textFull": "Blason de la maison Stane",
+    "text": "Stane",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/9f/Blason-stane-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 37,
+    "textFull": "Blason de la maison Stark",
+    "text": "Stark",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/89/Blason-stark-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 1
+  },
+  {
+    "idSigil": 38,
+    "textFull": "Blason de la maison Stout",
+    "text": "Stout",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/55/Blason-stout-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 39,
+    "textFull": "Blason de la maison Tallhart",
+    "text": "Tallhart",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d7/Blason-tallhart-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 40,
+    "textFull": "Blason de la maison Thenn",
+    "text": "Thenn",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/ae/Blason-thenn-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 41,
+    "textFull": "Blason de la maison Waterman",
+    "text": "Waterman",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d7/Blason-waterman-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 42,
+    "textFull": "Blason de la maison Whitehill",
+    "text": "Whitehill",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/76/Blason-whitehill-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 43,
+    "textFull": "Blason de la maison Woolfield",
+    "text": "Woolfield",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/73/Blason-woolfield-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 44,
+    "textFull": "Blason de la maison Wull",
+    "text": "Wull",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/38/Blason-wull-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Nord",
+    "level": 2
+  },
+  {
+    "idSigil": 45,
+    "textFull": "Blason de la maison Bonfrère",
+    "text": "Bonfrère",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/ad/Blason-bonfrere-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 46,
+    "textFull": "Blason de la maison Botley",
+    "text": "Botley",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/2b/Blason-botley-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 47,
+    "textFull": "Blason de la maison Chenu",
+    "text": "Chenu",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/be/Blason-chenu-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 48,
+    "textFull": "Blason de la maison Greyfer",
+    "text": "Greyfer",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/98/Blason-greyfer-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 49,
+    "textFull": "Blason de la maison Greyjoy",
+    "text": "Greyjoy",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/81/Blason-greyjoy-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 1
+  },
+  {
+    "idSigil": 50,
+    "textFull": "Blason de la maison Harloi",
+    "text": "Harloi",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/bd/Blason-harloi-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 51,
+    "textFull": "Blason de la maison Kenning de Harloi",
+    "text": "Kenning de Harloi",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e2/Blason-kenning-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 52,
+    "textFull": "Blason de la maison Maisonpierre",
+    "text": "Maisonpierre",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d4/Blason-maisonpierre-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 53,
+    "textFull": "Blason de la maison Merlyn",
+    "text": "Merlyn",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/29/Blason-merlyn-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 54,
+    "textFull": "Blason de la maison Morru",
+    "text": "Morru",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/11/Blason-morue-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 55,
+    "textFull": "Blason de la maison Myres",
+    "text": "Myres",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d3/Blason-myres-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 56,
+    "textFull": "Blason de la maison Noirmarées",
+    "text": "Noirmarées",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/83/Blason-noirmarees-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 57,
+    "textFull": "Blason de la maison Orquebois",
+    "text": "Orquebois",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a6/Blason-orkwood-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 58,
+    "textFull": "Blason de la maison Pindepierre",
+    "text": "Pindepierre",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a8/Blason-pindepierre-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 59,
+    "textFull": "Blason de la maison Salfalaise",
+    "text": "Salfalaise",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/82/Blason-salfalaise-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 60,
+    "textFull": "Blason de la maison Sparr",
+    "text": "Sparr",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/2a/Blason-sparr-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 61,
+    "textFull": "Blason de la maison Tawney",
+    "text": "Tawney",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f5/Blason-tawney-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 62,
+    "textFull": "Blason de la maison Timbal",
+    "text": "Timbal",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/10/Blason-timbal-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 63,
+    "textFull": "Blason de la maison Vendeloyn",
+    "text": "Vendeloyn",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/7f/Blason-vendeloyn-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 64,
+    "textFull": "Blason de la maison Valleuse",
+    "text": "Valleuse",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/84/Blason-valleuse-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 65,
+    "textFull": "Blason de la maison Volmark",
+    "text": "Volmark",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/04/Blason-volmark-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 66,
+    "textFull": "Blason de la maison Wynch",
+    "text": "Wynch",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/04/Blason-wynch-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Iles de Fer",
+    "level": 2
+  },
+  {
+    "idSigil": 67,
+    "textFull": "Blason de la maison Arryn",
+    "text": "Arryn",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/c3/Blason-arryn-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 1
+  },
+  {
+    "idSigil": 68,
+    "textFull": "Blason de la maison Baelish (historique)",
+    "text": "Baelish",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/30/Blason-baelish-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 4
+  },
+  {
+    "idSigil": 69,
+    "textFull": "Blason de la maison Baelish (nouveau)",
+    "text": "Baelish",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/ba/Blason-baelish-alt-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 70,
+    "textFull": "Blason de la maison Belmore",
+    "text": "Belmore",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a6/Blason-belmore-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 71,
+    "textFull": "Blason de la maison Borrell",
+    "text": "Borrell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/26/Blason-borell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 72,
+    "textFull": "Blason de la maison Cirley",
+    "text": "Cirley",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/62/Blason-cirley-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 73,
+    "textFull": "Blason de la maison Corbray",
+    "text": "Corbray",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/b5/Blason-corbray-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 74,
+    "textFull": "Blason de la maison Descarpe",
+    "text": "Descarpe",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/7b/Blason-upcliff-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 75,
+    "textFull": "Blason de la maison Donniger",
+    "text": "Donniger",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/51/Blason-donniger-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 76,
+    "textFull": "Blason de la maison Egen",
+    "text": "Egen",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/4a/Blason-egen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 77,
+    "textFull": "Blason de la maison Elesham",
+    "text": "Elesham",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/fd/Blason-elesham-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 78,
+    "textFull": "Blason de la maison Froideseaux",
+    "text": "Froideseaux",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/1b/Blason-froideseaux-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 79,
+    "textFull": "Blason de la maison Grafton",
+    "text": "Grafton",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/50/Blason-grafton-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 80,
+    "textFull": "Blason de la maison Hardyng",
+    "text": "Hardyng",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/8f/Blason-hardyng-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 81,
+    "textFull": "Blason de la maison Hersy",
+    "text": "Hersy",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f1/Blason-hersy-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 82,
+    "textFull": "Blason de la maison Lipps",
+    "text": "Lipps",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/4e/Blason-lipps-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 83,
+    "textFull": "Blason de la maison Lynderly",
+    "text": "Lynderly",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/94/Blason-lynderly-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 84,
+    "textFull": "Blason de la maison Melcolm",
+    "text": "Melcolm",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/2e/Blason-melcolm-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 85,
+    "textFull": "Blason de la maison Montmarri",
+    "text": "Montmarri",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/0c/Blason-ruthermont-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 86,
+    "textFull": "Blason de la maison Moore",
+    "text": "Moore",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/56/Blason-moore-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 87,
+    "textFull": "Blason de la maison Pryor",
+    "text": "Pryor",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/fa/Blason-pryor-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 88,
+    "textFull": "Blason de la maison Rompierre",
+    "text": "Rompierre",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/c4/Blason-breakstone-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 89,
+    "textFull": "Blason de la maison Rougefort",
+    "text": "Rougefort",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/24/Blason-rougefort-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 90,
+    "textFull": "Blason de la maison Royce de Roches-aux-runes",
+    "text": "Royce de Roches-aux-runes",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/98/Blason-royce-roches-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 91,
+    "textFull": "Blason de la maison Royce des Portes de la Lune",
+    "text": "Royce des Portes de la Lune",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/33/Blason-royce-portes-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 92,
+    "textFull": "Blason de la maison Shett",
+    "text": "Shett",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/60/Blason-shett-2014-v02-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 93,
+    "textFull": "Blason de la maison Sunderland",
+    "text": "Sunderland",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a4/Blason-sunderland-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 94,
+    "textFull": "Blason de la maison Tallett",
+    "text": "Tallett",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d7/Blason-tallett-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 95,
+    "textFull": "Blason de la maison Templeton",
+    "text": "Templeton",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/4a/Blason-templeton-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 96,
+    "textFull": "Blason de la maison Vanbois",
+    "text": "Vanbois",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/61/Blason-vanbois-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 97,
+    "textFull": "Blason de la maison Veneur",
+    "text": "Veneur",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/89/Blason-veneur-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 98,
+    "textFull": "Blason de la maison Wydman",
+    "text": "Wydman",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a1/Blason-wydman-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Val d'Arryn",
+    "level": 2
+  },
+  {
+    "idSigil": 99,
+    "textFull": "Blason de la maison d'Alluve",
+    "text": "D'Alluve",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/3e/Blason-dalluve-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 100,
+    "textFull": "Blason de la maison Blatane",
+    "text": "Blatane",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/3e/Blason-blanetree-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 101,
+    "textFull": "Blason de la maison Bonru",
+    "text": "Bonru",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/8e/Blason-bonru-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 102,
+    "textFull": "Blason de la maison Bracken",
+    "text": "Bracken",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/41/Blason-bracken-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 1
+  },
+  {
+    "idSigil": 103,
+    "textFull": "Blason de la maison Beurpuits",
+    "text": "Beurpuits",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d8/Blason-beurpuits-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 104,
+    "textFull": "Blason de la maison Charlton",
+    "text": "Charlton",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/cf/Blason-charlton-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 105,
+    "textFull": "Blason de la maison Chauney",
+    "text": "Chauney",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/da/Blason-chauney-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 106,
+    "textFull": "Blason de la maison Darry",
+    "text": "Darry",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/92/Blason-darry-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 107,
+    "textFull": "Blason de la maison Erongué",
+    "text": "Erongué",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/71/Blason-erongue-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 108,
+    "textFull": "Blason de la maison Foin",
+    "text": "Foin",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f4/Blason-foin-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 109,
+    "textFull": "Blason de la maison Fort",
+    "text": "Fort",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/77/Blason-fort-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 110,
+    "textFull": "Blason de la maison Frey",
+    "text": "Frey",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/12/Blason-frey-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 1
+  },
+  {
+    "idSigil": 111,
+    "textFull": "Blason de la maison Grell",
+    "text": "Grell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/45/Blason-grell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 112,
+    "textFull": "Blason de la maison Guède",
+    "text": "Guède",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/65/Blason-guede-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 113,
+    "textFull": "Blason de la maison Harlton",
+    "text": "Harlton",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e0/Blason-harlton-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 114,
+    "textFull": "Blason de la maison Hawick",
+    "text": "Hawick",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/55/Blason-hawick-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 115,
+    "textFull": "Blason de la maison Herpivoie",
+    "text": "Herpivoie",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/02/Blason-herpivoie-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 116,
+    "textFull": "Blason de la maison Keath",
+    "text": "Keath",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/95/Blason-keath-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 117,
+    "textFull": "Blason de la maison Lejuste",
+    "text": "Lejuste",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/26/Blason-lejuste-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 118,
+    "textFull": "Blason de la maison Lolliston",
+    "text": "Lolliston",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/75/Blason-lolliston-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 119,
+    "textFull": "Blason de la maison Lothston",
+    "text": "Lothston",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/fe/Blason-lothston-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 120,
+    "textFull": "Blason de la maison Lychester",
+    "text": "Lychester",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e7/Blason-lychester-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 121,
+    "textFull": "Blason de la maison Mallister",
+    "text": "Mallister",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/1a/Blason-mallister-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 122,
+    "textFull": "Blason de la maison Mouton",
+    "text": "Mouton",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/55/Blason-mouton-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 123,
+    "textFull": "Blason de la maison Nerbosc",
+    "text": "Nerbosc",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/b5/Blason-nerbosc-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 1
+  },
+  {
+    "idSigil": 124,
+    "textFull": "Blason de la maison Paege",
+    "text": "Paege",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/01/Blason-paege-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 125,
+    "textFull": "Blason de la maison Pescheur",
+    "text": "Pescheur",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/dc/Blason-pescheur-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 126,
+    "textFull": "Blason de la maison Petibois",
+    "text": "Petibois",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/90/Blason-petibois-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 127,
+    "textFull": "Blason de la maison Piper",
+    "text": "Piper",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/73/Blason-piper-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 128,
+    "textFull": "Blason de la maison Qoherys",
+    "text": "Qoherys",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/12/Blason-qoherys-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 129,
+    "textFull": "Blason de la maison Racin",
+    "text": "Racin",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/29/Blason-racin-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 130,
+    "textFull": "Blason de la maison Ryger",
+    "text": "Ryger",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/37/Blason-ryger-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 131,
+    "textFull": "Blason de la maison Teague",
+    "text": "Teague",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/5f/Blason-teague-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 132,
+    "textFull": "Blason de la maison Terrique",
+    "text": "Terrique",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/7b/Blason-terrick-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 133,
+    "textFull": "Blason de la maison Tourelles",
+    "text": "Tourelles",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/b7/Blason-tourelles-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 134,
+    "textFull": "Blason de la maison Tully",
+    "text": "Tully",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e7/Blason-tully-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 1
+  },
+  {
+    "idSigil": 135,
+    "textFull": "Blason de la maison Van",
+    "text": "Van",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/29/Blason-van-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 136,
+    "textFull": "Blason de la maison Vance de Bel Accueil",
+    "text": "Vance de Bel Accueil",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a5/Blason-vance_2-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 137,
+    "textFull": "Blason de la maison Vance d'Atranta",
+    "text": "Vance d'Atranta",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/81/Blason-vance-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 138,
+    "textFull": "Blason de la maison Vyprin",
+    "text": "Vyprin",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/82/Blason-vyprin-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 139,
+    "textFull": "Blason de la maison Whent",
+    "text": "Whent",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/03/Blason-whent-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Conflans",
+    "level": 2
+  },
+  {
+    "idSigil": 140,
+    "textFull": "Blason de la maison Algood",
+    "text": "Algood",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/db/Blason-algood-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 141,
+    "textFull": "Blason de la maison Aubépin",
+    "text": "Aubépin",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/4c/Blason-hawthorne-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 142,
+    "textFull": "Blason de la maison Bettley",
+    "text": "Bettley",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e3/Blason-bettley-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 143,
+    "textFull": "Blason de la maison Brax",
+    "text": "Brax",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/93/Blason-brax-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 144,
+    "textFull": "Blason de la maison Clegane",
+    "text": "Clegane",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/06/Blason-clegane-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 1
+  },
+  {
+    "idSigil": 145,
+    "textFull": "Blason de la maison Crakehall",
+    "text": "Crakehall",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/20/Blason-crakehall-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 146,
+    "textFull": "Blason de la maison Cuillêtre",
+    "text": "Cuillêtre",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/10/Blason-cuilletre-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 147,
+    "textFull": "Blason de la maison Doguette",
+    "text": "Doguette",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/69/Blason-doggett-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 148,
+    "textFull": "Blason de la maison Dombecq",
+    "text": "Dombecq",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/55/Blason-dombecq-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 149,
+    "textFull": "Blason de la maison Drox",
+    "text": "Drox",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/47/Blason-drox-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 150,
+    "textFull": "Blason de la maison Estren",
+    "text": "Estren",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/5e/Blason-estren-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 151,
+    "textFull": "Blason de la maison Fallières",
+    "text": "Fallières",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/11/Blason-falwell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 152,
+    "textFull": "Blason de la maison Farman",
+    "text": "Farman",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/5c/Blason-farman-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 153,
+    "textFull": "Blason de la maison Ferren",
+    "text": "Ferren",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/69/Blason-ferren-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 154,
+    "textFull": "Blason de la maison Fléaufort",
+    "text": "Fléaufort",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d5/Blason-fleaufort-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 155,
+    "textFull": "Blason de la maison Garner",
+    "text": "Garner",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/5b/Blason-garner-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 156,
+    "textFull": "Blason de la maison Geneste",
+    "text": "Geneste",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d5/Blason-broom-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 157,
+    "textFull": "Blason de la maison Gerblance",
+    "text": "Gerblance",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/93/Blason-gerblance-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 158,
+    "textFull": "Blason de la maison Hamell",
+    "text": "Hamell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/b7/Blason-hamell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 159,
+    "textFull": "Blason de la maison If",
+    "text": "If",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/ad/Blason-if-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 160,
+    "textFull": "Blason de la maison Jast",
+    "text": "Jast",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/16/Blason-jast-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 161,
+    "textFull": "Blason de la maison Kenning de Kayce",
+    "text": "Kenning de Kayce",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/00/Blason-kenning2-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 162,
+    "textFull": "Blason de la maison Lannister",
+    "text": "Lannister",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e7/Blason-lannister-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 1
+  },
+  {
+    "idSigil": 163,
+    "textFull": "Blason de la maison Lefford",
+    "text": "Lefford",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/66/Blason-lefford-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 164,
+    "textFull": "Blason de la maison Lépicier",
+    "text": "Lépicier",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/9e/Blason-lepicier-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 165,
+    "textFull": "Blason de la maison Lorch",
+    "text": "Lorch",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f7/Blason-lorch-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 166,
+    "textFull": "Blason de la maison Lydden",
+    "text": "Lydden",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/bf/Blason-lydden-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 167,
+    "textFull": "Blason de la maison Marpheux",
+    "text": "Marpheux",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/6d/Blason-marpheux-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 168,
+    "textFull": "Blason de la maison Moreland",
+    "text": "Moreland",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/c0/Blason-moreland-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 169,
+    "textFull": "Blason de la maison Myatt",
+    "text": "Myatt",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f2/Blason-myatt-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 170,
+    "textFull": "Blason de la maison Ouestrelin",
+    "text": "Ouestrelin",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/c6/Blason-ouestrelin-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 171,
+    "textFull": "Blason de la maison Parren",
+    "text": "Parren",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a7/Blason-parren-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 172,
+    "textFull": "Blason de la maison Payne",
+    "text": "Payne",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/55/Blason-payne-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 173,
+    "textFull": "Blason de la maison Pièdre",
+    "text": "Pièdre",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/8d/Blason-piedre-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 174,
+    "textFull": "Blason de la maison Prünh",
+    "text": "Prünh",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/69/Blason-prunh-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 175,
+    "textFull": "Blason de la maison Prestre",
+    "text": "Prestre",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d7/Blason-prestre-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 176,
+    "textFull": "Blason de la maison Reyne",
+    "text": "Reyne",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/3b/Blason-reyne-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 177,
+    "textFull": "Blason de la maison Rouxtigre",
+    "text": "Rouxtigre",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/1d/Blason-rouxtigre-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 178,
+    "textFull": "Blason de la maison Sarschamp",
+    "text": "Sarschamp",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/14/Blason-sarschamp-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 179,
+    "textFull": "Blason de la maison Sarwyck",
+    "text": "Sarwyck",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/59/Blason-sarwyck-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 180,
+    "textFull": "Blason de la maison Serrett",
+    "text": "Serrett",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/48/Blason-serrett-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 181,
+    "textFull": "Blason de la maison Swyft",
+    "text": "Swyft",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/50/Blason-swyft-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 182,
+    "textFull": "Blason de la maison Tarbeck",
+    "text": "Tarbeck",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/31/Blason-tarbeck-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 183,
+    "textFull": "Blason de la maison Tournebaie",
+    "text": "Tournebaie",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/c8/Blason-tournebaie-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 184,
+    "textFull": "Blason de la maison Verchamps",
+    "text": "Verchamps",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/96/Blason-verchamps-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 185,
+    "textFull": "Blason de la maison Vikair",
+    "text": "Vikair",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a7/Blason-vikair-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 186,
+    "textFull": "Blason de la maison Yarwyck",
+    "text": "Yarwyck",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/29/Blason-yarwyck-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 187,
+    "textFull": "Blason de la maison Westford",
+    "text": "Westford",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/fb/Blason-westford-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Ouest",
+    "level": 2
+  },
+  {
+    "idSigil": 188,
+    "textFull": "Blason de la maison Bar Emmon",
+    "text": "Bar Emmon",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/69/Blason-baremmon-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 189,
+    "textFull": "Blason de la maison Blount",
+    "text": "Blount",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/fa/Blason-blount-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 190,
+    "textFull": "Blason de la maison Boulleau",
+    "text": "Boulleau",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/88/Blason-boulleau-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 191,
+    "textFull": "Blason de la maison Brune de Combebrune",
+    "text": "Brune de Combebrune",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/1f/Blason-brune-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 192,
+    "textFull": "Blason de la maison Buckwell",
+    "text": "Buckwell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/52/Blason-buckwell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 193,
+    "textFull": "Blason de la maison Cargyll",
+    "text": "Cargyll",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a0/Blason-cargyll-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 194,
+    "textFull": "Blason de la maison Castelfoyer",
+    "text": "Castelfoyer",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/99/Blason-castelfoyer-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 195,
+    "textFull": "Blason de la maison Celtigar",
+    "text": "Celtigar",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/11/Blason-celtigar-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 196,
+    "textFull": "Blason de la maison Chelsted",
+    "text": "Chelsted",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/0e/Blason-chelsted-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 197,
+    "textFull": "Blason de la maison Chyttering",
+    "text": "Chyttering",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/25/Blason-chyttering-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 198,
+    "textFull": "Blason de la maison Cressey",
+    "text": "Cressey",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/44/Blason-cressey-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 199,
+    "textFull": "Blason de la maison Edgerton",
+    "text": "Edgerton",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/5f/Blason-edgerton-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 200,
+    "textFull": "Blason de la maison Farring",
+    "text": "Farring",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/0b/Blason-farring-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 201,
+    "textFull": "Blason de la maison Fengué",
+    "text": "Fengué",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/57/Blason-fengue-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 202,
+    "textFull": "Blason de la maison Feunoyr",
+    "text": "Feunoyr",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/ae/Blason-feunoyr-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 1
+  },
+  {
+    "idSigil": 203,
+    "textFull": "Blason de la maison Follard",
+    "text": "Follard",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/00/Blason-follard-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 204,
+    "textFull": "Blason de la maison Gaunt",
+    "text": "Gaunt",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/45/Blason-gaunt-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 205,
+    "textFull": "Blason de la maison Grondegué",
+    "text": "Grondegué",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/bc/Blason-rollingford-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 206,
+    "textFull": "Blason de la maison Harte",
+    "text": "Harte",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/7d/Blason-harte-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 207,
+    "textFull": "Blason de la maison Hollard",
+    "text": "Hollard",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/c8/Blason-hollard-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 208,
+    "textFull": "Blason de la maison Longegarde",
+    "text": "Longegarde",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/3b/Blason-langward-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 209,
+    "textFull": "Blason de la maison Mallery",
+    "text": "Mallery",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a3/Blason-mallery-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 210,
+    "textFull": "Blason de la maison Manning",
+    "text": "Manning",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/72/Blason-manning-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 211,
+    "textFull": "Blason de la maison Massey",
+    "text": "Massey",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f7/Blason-massey-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 212,
+    "textFull": "Blason de la maison Potaunoir",
+    "text": "Potaunoir",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/99/Blason-potaunoir-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 213,
+    "textFull": "Blason de la maison Prédeaux",
+    "text": "Prédeaux",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/76/Blason-predeaux-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 214,
+    "textFull": "Blason de la maison Pyle",
+    "text": "Pyle",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d3/Blason-pyle-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 215,
+    "textFull": "Blason de la maison Rambton",
+    "text": "Rambton",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/4d/Blason-rambton-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 216,
+    "textFull": "Blason de la maison Rosby",
+    "text": "Rosby",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/cf/Blason-rosby-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 217,
+    "textFull": "Blason de la maison Rykker",
+    "text": "Rykker",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/84/Blason-rykker-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 218,
+    "textFull": "Blason de la maison Slynt",
+    "text": "Slynt",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/ff/Blason-slynt-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 219,
+    "textFull": "Blason de la maison Solverre",
+    "text": "Solverre",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/67/Blason-solverre-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 220,
+    "textFull": "Blason de la maison Sombrelyn",
+    "text": "Sombrelyn",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/3b/Blason-sombrelyn-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 221,
+    "textFull": "Blason de la maison Staunton",
+    "text": "Staunton",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/32/Blason-staunton-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 222,
+    "textFull": "Blason de la maison Targaryen",
+    "text": "Targaryen",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/80/Blason-targaryen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 1
+  },
+  {
+    "idSigil": 223,
+    "textFull": "Blason de la maison Thorne",
+    "text": "Thorne",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/b9/Blason-thorne-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 224,
+    "textFull": "Blason de la maison Velaryon",
+    "text": "Velaryon",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/6d/Blason-velaryon-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 1
+  },
+  {
+    "idSigil": 225,
+    "textFull": "Blason de la maison Wendwater",
+    "text": "Wendwater",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/2e/Blason-wend-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de la Couronne",
+    "level": 2
+  },
+  {
+    "idSigil": 226,
+    "textFull": "Blason de la maison Baratheon",
+    "text": "Baratheon",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a5/Blason-baratheon-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 1
+  },
+  {
+    "idSigil": 227,
+    "textFull": "Blason de la maison Boulin",
+    "text": "Boulin",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/1e/Blason-bolling-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 228,
+    "textFull": "Blason de la maison Buckler",
+    "text": "Buckler",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d7/Blason-buckler-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 229,
+    "textFull": "Blason de la maison Cafferen",
+    "text": "Cafferen",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/3e/Blason-cafferen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 230,
+    "textFull": "Blason de la maison Caron",
+    "text": "Caron",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/67/Blason-caron-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 231,
+    "textFull": "Blason de la maison Cole",
+    "text": "Cole",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/72/Blason-cole-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 232,
+    "textFull": "Blason de la maison Connington",
+    "text": "Connington",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f4/Blason-connington-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 1
+  },
+  {
+    "idSigil": 233,
+    "textFull": "Blason de la maison Dondarrion",
+    "text": "Dondarrion",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/46/Blason-dondarrion-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 234,
+    "textFull": "Blason de la maison Errol",
+    "text": "Errol",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/de/Blason-errol-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 235,
+    "textFull": "Blason de la maison Estremont",
+    "text": "Estremont",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/c6/Blason-estremont-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 236,
+    "textFull": "Blason de la maison Fell",
+    "text": "Fell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d6/Blason-fell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 237,
+    "textFull": "Blason de la maison Frétilletrique",
+    "text": "Frétilletrique",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/5b/Blason-fretilletrique-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 238,
+    "textFull": "Blason de la maison Goüer",
+    "text": "Goüer",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/56/Blason-gouer-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 239,
+    "textFull": "Blason de la maison Grandison",
+    "text": "Grandison",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/10/Blason-grandison-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 240,
+    "textFull": "Blason de la maison Hastif",
+    "text": "Hastif",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/61/Blason-hastif-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 241,
+    "textFull": "Blason de la maison Herston",
+    "text": "Herston",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e7/Blason-herston-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 242,
+    "textFull": "Blason de la maison Horpe",
+    "text": "Horpe",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f8/Blason-horpe-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 243,
+    "textFull": "Blason de la maison Kellington",
+    "text": "Kellington",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/3c/Blason-kellington-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 244,
+    "textFull": "Blason de la maison Lonbec",
+    "text": "Lonbec",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/75/Blason-lonbec-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 245,
+    "textFull": "Blason de la maison Mertyns",
+    "text": "Mertyns",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/9b/Blason-mertyns-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 246,
+    "textFull": "Blason de la maison Mervault",
+    "text": "Mervault",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/72/Blason-mervault-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 1
+  },
+  {
+    "idSigil": 247,
+    "textFull": "Blason de la maison Morrigen",
+    "text": "Morrigen",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/23/Blason-morrigen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 248,
+    "textFull": "Blason de la maison Mossegonde",
+    "text": "Mossegonde",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/55/Blason-mossegonde-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 249,
+    "textFull": "Blason de la maison Cossepois",
+    "text": "Cossepois",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a5/Blason-cossepois-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 250,
+    "textFull": "Blason de la maison Penrose",
+    "text": "Penrose",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d1/Blason-penrose-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 251,
+    "textFull": "Blason de la maison Rogers",
+    "text": "Rogers",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/ba/Blason-rogers-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 252,
+    "textFull": "Blason de la maison Selmy",
+    "text": "Selmy",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/05/Blason-selmy-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 253,
+    "textFull": "Blason de la maison Staedmon",
+    "text": "Staedmon",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/25/Blason-staedmon-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 254,
+    "textFull": "Blason de la maison Swann",
+    "text": "Swann",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a7/Blason-swann-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 255,
+    "textFull": "Blason de la maison Swygert",
+    "text": "Swygert",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/ba/Blason-swygert-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 256,
+    "textFull": "Blason de la maison Tignac",
+    "text": "Tignac",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f8/Blason-tignac-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 257,
+    "textFull": "Blason de la maison Torth",
+    "text": "Torth",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d8/Blason-torth-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 258,
+    "textFull": "Blason de la maison Trant",
+    "text": "Trant",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/97/Blason-trant-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 259,
+    "textFull": "Blason de la maison Tudbury",
+    "text": "Tudbury",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/c6/Blason-tudbury-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 260,
+    "textFull": "Blason de la maison Wensington",
+    "text": "Wensington",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e4/Blason-wensington-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 261,
+    "textFull": "Blason de la maison Wylde",
+    "text": "Wylde",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a6/Blason-wylde-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Terres de l'Orage",
+    "level": 2
+  },
+  {
+    "idSigil": 262,
+    "textFull": "Blason de la maison Ambrose",
+    "text": "Ambrose",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d2/Blason-ambrose-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 263,
+    "textFull": "Blason de la maison Appleton",
+    "text": "Appleton",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/0a/Blason-appleton-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 264,
+    "textFull": "Blason de la maison Boule",
+    "text": "Boule",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/4a/Blason-boule-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 265,
+    "textFull": "Blason de la maison Bonleu",
+    "text": "Bonleu",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/94/Blason-bonleu-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 266,
+    "textFull": "Blason de la maison Bridges",
+    "text": "Bridges",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/4e/Blason-bridges-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 267,
+    "textFull": "Blason de la maison Brousse",
+    "text": "Brousse",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/95/Blason-brousse-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 268,
+    "textFull": "Blason de la maison Bulwer",
+    "text": "Bulwer",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/ec/Blason-bulwer-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 269,
+    "textFull": "Blason de la maison Caswell",
+    "text": "Caswell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/54/Blason-caswell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 270,
+    "textFull": "Blason de la maison Cendregué",
+    "text": "Cendregué",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a5/Blason-cendregue-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 271,
+    "textFull": "Blason de la maison Chester",
+    "text": "Chester",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/04/Blason-chester-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 272,
+    "textFull": "Blason de la maison Chantecoq",
+    "text": "Chantecoq",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/58/Blason-chantecoq-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 273,
+    "textFull": "Blason de la maison Cordwayner",
+    "text": "Cordwayner",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f0/Blason-cordwayner-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 274,
+    "textFull": "Blason de la maison Costayne",
+    "text": "Costayne",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/19/Blason-costayne-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 275,
+    "textFull": "Blason de la maison Crane",
+    "text": "Crane",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a7/Blason-crane-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 276,
+    "textFull": "Blason de la maison Cuy",
+    "text": "Cuy",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/8b/Blason-cuy-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 277,
+    "textFull": "Blason de la maison Dunn",
+    "text": "Dunn",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/28/Blason-dunn-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 278,
+    "textFull": "Blason de la maison des Essaims",
+    "text": "Essaims",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/4c/Blason-desessaims-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 279,
+    "textFull": "Blason de la maison Florent",
+    "text": "Florent",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/0b/Blason-florent-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 1
+  },
+  {
+    "idSigil": 280,
+    "textFull": "Blason de la maison Piète",
+    "text": "Piète",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/6a/Blason-piete-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 281,
+    "textFull": "Blason de la maison Fossovoie pomme-rouge",
+    "text": "Fossovoie pomme-rouge",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/0c/Blason-fossovoie-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 282,
+    "textFull": "Blason de la maison Fossovoie pomme-verte",
+    "text": "Fossovoie pomme-verte",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d5/Blason-fossovoie-alt-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 283,
+    "textFull": "Blason de la maison Graceford",
+    "text": "Graceford",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/9c/Blason-graceford-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 284,
+    "textFull": "Blason de la maison Graves",
+    "text": "Graves",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/0a/Blason-graves-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 285,
+    "textFull": "Blason de la maison Grimm",
+    "text": "Grimm",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e4/Blason-grimm-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 286,
+    "textFull": "Blason de la maison Hastwyck",
+    "text": "Hastwyck",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/fe/Blason-hastwyck-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 287,
+    "textFull": "Blason de la maison Hightower",
+    "text": "Hightower",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/46/Blason-hightower-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 288,
+    "textFull": "Blason de la maison Houëtt",
+    "text": "Houëtt",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/9c/Blason-houett-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 289,
+    "textFull": "Blason de la maison Hunt",
+    "text": "Hunt",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/6f/Blason-hunt-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 290,
+    "textFull": "Blason de la maison Hutcheson",
+    "text": "Hutcheson",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/3f/Blason-hutcheson-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 291,
+    "textFull": "Blason de la maison Jardinier",
+    "text": "Jardinier",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/0a/Blason-jardinier-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 1
+  },
+  {
+    "idSigil": 292,
+    "textFull": "Blason de la maison Kidwell",
+    "text": "Kidwell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/8a/Blason-kidwell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 293,
+    "textFull": "Blason de la maison Le Charpentier",
+    "text": "Le Charpentier",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/50/Blason-lecharpentier-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 294,
+    "textFull": "Blason de la maison Lowther",
+    "text": "Lowther",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/aa/Blason-lowther-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 295,
+    "textFull": "Blason de la maison Lyberr",
+    "text": "Lyberr",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/92/Blason-lyberr-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 296,
+    "textFull": "Blason de la maison Merryweather",
+    "text": "Merryweather",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f6/Blason-merryweather-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 297,
+    "textFull": "Blason de la maison Middlebury",
+    "text": "Middlebury",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/00/Blason-middlebury-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 298,
+    "textFull": "Blason de la maison Milopin",
+    "text": "Milopin",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/1d/Blason-milopin-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 299,
+    "textFull": "Blason de la maison Mullendore",
+    "text": "Mullendore",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/56/Blason-mullendore-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 300,
+    "textFull": "Blason de la maison Negrebar",
+    "text": "Negrebar",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/ff/Blason-negrebar-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 301,
+    "textFull": "Blason de la maison Norcroix",
+    "text": "Norcroix",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/87/Blason-norcroix-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 302,
+    "textFull": "Blason de la maison Norridge",
+    "text": "Norridge",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/57/Blason-norridge-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 303,
+    "textFull": "Blason de la maison de la Nouë",
+    "text": "Nouë",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/30/Blason-delanoue-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 304,
+    "textFull": "Blason de la maison Oldflowers",
+    "text": "Oldflowers",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/72/Blason-oldflowers-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 305,
+    "textFull": "Blason de la maison Orme",
+    "text": "Orme",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f4/Blason-orme-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 306,
+    "textFull": "Blason de la maison Osgris",
+    "text": "Osgris",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/98/Blason-osgris-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 307,
+    "textFull": "Blason de la maison Peake",
+    "text": "Peake",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/69/Blason-peake-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 308,
+    "textFull": "Blason de la maison Pommingham",
+    "text": "Pommingham",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/ec/Blason-pommingham-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 309,
+    "textFull": "Blason de la maison Redding",
+    "text": "Redding",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d0/Blason-redding-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 310,
+    "textFull": "Blason de la maison Redwyne",
+    "text": "Redwyne",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/7d/Blason-redwyne-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 311,
+    "textFull": "Blason de la maison Rhysling",
+    "text": "Rhysling",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/06/Blason-rhysling-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 312,
+    "textFull": "Blason de la maison Risley",
+    "text": "Risley",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f4/Blason-risley-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 313,
+    "textFull": "Blason de la maison Roxton",
+    "text": "Roxton",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a0/Blason-roxton-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 314,
+    "textFull": "Blason de la maison du Rouvre",
+    "text": "Du Rouvre",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/9f/Blason-durouvre-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 315,
+    "textFull": "Blason de la maison Rowan",
+    "text": "Rowan",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/05/Blason-rowan-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 316,
+    "textFull": "Blason de la maison Serry",
+    "text": "Serry",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/b5/Blason-serry-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 317,
+    "textFull": "Blason de la maison Shermer",
+    "text": "Shermer",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/32/Blason-shermer-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 318,
+    "textFull": "Blason de la maison Sloane",
+    "text": "Sloane",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/ef/Blason-sloane-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 319,
+    "textFull": "Blason de la maison Tarly",
+    "text": "Tarly",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d6/Blason-tarly-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 1
+  },
+  {
+    "idSigil": 320,
+    "textFull": "Blason de la maison Tyrell",
+    "text": "Tyrell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f9/Blason-tyrell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 1
+  },
+  {
+    "idSigil": 321,
+    "textFull": "Blason de la maison Tyssier",
+    "text": "Tyssier",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/92/Blason-tyssier-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 322,
+    "textFull": "Blason de la maison Uffering",
+    "text": "Uffering",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/64/Blason-uffering-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 323,
+    "textFull": "Blason de la maison Varnier",
+    "text": "Varnier",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/3e/Blason-varnier-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 324,
+    "textFull": "Blason de la maison Vouyvère",
+    "text": "Vouyvère",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/41/Blason-vouyvere-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 325,
+    "textFull": "Blason de la maison Westbrook",
+    "text": "Westbrook",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/2b/Blason-westbrook-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 326,
+    "textFull": "Blason de la maison Willum",
+    "text": "Willum",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/03/Blason-willum-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 327,
+    "textFull": "Blason de la maison Wythers",
+    "text": "Wythers",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/70/Blason-wythers-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 328,
+    "textFull": "Blason de la maison Yelshire",
+    "text": "Yelshire",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/3c/Blason-yelshire-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Bief",
+    "level": 2
+  },
+  {
+    "idSigil": 329,
+    "textFull": "Blason de la maison Allyrion",
+    "text": "Allyrion",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/dc/Blason-allyrion-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 330,
+    "textFull": "Blason de la maison Dalt",
+    "text": "Dalt",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/97/Blason-dalt-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 331,
+    "textFull": "Blason de la maison Dayne",
+    "text": "Dayne",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/ee/Blason-dayne-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 332,
+    "textFull": "Blason de la maison Ferboys",
+    "text": "Ferboys",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/66/Blason-ferboys-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 333,
+    "textFull": "Blason de la maison Forrest",
+    "text": "Forrest",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/2c/Blason-forrest-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 334,
+    "textFull": "Blason de la maison Gargalen",
+    "text": "Gargalen",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/27/Blason-gargalen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 335,
+    "textFull": "Blason de la maison Jordayne",
+    "text": "Jordayne",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f8/Blason-jordayne-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 336,
+    "textFull": "Blason de la maison Martell",
+    "text": "Martell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/71/Blason-martell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 1
+  },
+  {
+    "idSigil": 337,
+    "textFull": "Blason de la maison Noirmont",
+    "text": "Noirmont",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/2f/Blason-noirmont-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 338,
+    "textFull": "Blason de la maison Poulet",
+    "text": "Poulet",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/c6/Blason-poulet-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 339,
+    "textFull": "Blason de la maison Qorgyle",
+    "text": "Qorgyle",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/1c/Blason-qorgyle-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 340,
+    "textFull": "Blason de la maison Santagar",
+    "text": "Santagar",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/be/Blason-santagar-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 341,
+    "textFull": "Blason de la maison Tolland",
+    "text": "Tolland",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/01/Blason-toland-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 342,
+    "textFull": "Blason de la maison Uller",
+    "text": "Uller",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/62/Blason-uller-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 343,
+    "textFull": "Blason de la maison le Voi",
+    "text": "Le Voi",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/06/Blason-levoi-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 344,
+    "textFull": "Blason de la maison Wyl",
+    "text": "Wyl",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a7/Blason-wyl-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Dorne",
+    "level": 2
+  },
+  {
+    "idSigil": 345,
+    "textFull": "Blason de la Garde de Nuit",
+    "text": "Garde de Nuit",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/ac/Blason-gdn-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Ordres militaires et mercenaires",
+    "level": 2
+  },
+  {
+    "idSigil": 346,
+    "textFull": "Blason de la Garde Royale",
+    "text": "Garde Royale",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/41/Blason-garderoyale-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Ordres militaires et mercenaires",
+    "level": 2
+  },
+  {
+    "idSigil": 347,
+    "textFull": "Blason de la Garde Arc-en-Ciel",
+    "text": "Garde Arc-en-Ciel",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/35/Blason-arcenciel-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Ordres militaires et mercenaires",
+    "level": 2
+  },
+  {
+    "idSigil": 348,
+    "textFull": "Blason de l'ordre des Fils du Guerrier",
+    "text": "Fils du Guerrier",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/86/Blason-filsduguerrier-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Ordres militaires et mercenaires",
+    "level": 2
+  },
+  {
+    "idSigil": 349,
+    "textFull": "Blason de l'ordre des Pauvres Compagnons",
+    "text": "Pauvres Compagnons",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/dd/Blason-pauvrescompagnons-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Ordres militaires et mercenaires",
+    "level": 2
+  },
+  {
+    "idSigil": 350,
+    "textFull": "Blason de la Compagnie Dorée",
+    "text": "Compagnie Dorée",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f8/Blason-compagniedoree-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Ordres militaires et mercenaires",
+    "level": 2
+  },
+  {
+    "idSigil": 351,
+    "textFull": "Blason des Braves Compaings",
+    "text": "Braves Compaings",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/fa/Blason-bravescompaings-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Ordres militaires et mercenaires",
+    "level": 2
+  },
+  {
+    "idSigil": 352,
+    "textFull": "Blason de Traque-Sangs",
+    "text": "Traque-Sangs",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/79/Blason-traquesangs-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Ordres militaires et mercenaires",
+    "level": 2
+  },
+  {
+    "idSigil": 353,
+    "textFull": "Blason des Puînés",
+    "text": "Puînés",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/53/Blason-puines-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Ordres militaires et mercenaires",
+    "level": 2
+  },
+  {
+    "idSigil": 354,
+    "textFull": "Blason des Corbeaux Tornade",
+    "text": "Corbeaux Tornade",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/c4/Blason-corbeauxtornade-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Ordres militaires et mercenaires",
+    "level": 2
+  },
+  {
+    "idSigil": 355,
+    "textFull": "Blason des Erre-au-Vent",
+    "text": "Erre-au-Vent",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/47/Blason-erreauvent-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Ordres militaires et mercenaires",
+    "level": 2
+  },
+  {
+    "idSigil": 356,
+    "textFull": "Blason personnel de Barbrey Ryswell",
+    "text": "Barbrey Ryswell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/94/Blason-perso-barbreyRyswell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 357,
+    "textFull": "Blason personnel du roi Robb Stark",
+    "text": "Robb Stark",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/0f/Blason-perso-robbStark-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 358,
+    "textFull": "Blason personnel de Boremund Harloi",
+    "text": "Boremund Harloi",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a7/Blason-perso-boremundHarloi-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 359,
+    "textFull": "Blason personnel de Harras Harloi",
+    "text": "Harras Harloi",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/bc/Blason-harloi-alt4-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 360,
+    "textFull": "Blason personnel de Sigfryd Harloi",
+    "text": "Sigfryd Harloi",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/db/Blason-perso-sigfrydHarloi-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 361,
+    "textFull": "Blason personnel de Hotho Harloi",
+    "text": "Hotho Harloi",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/b9/Blason-perso-hothoHarloi-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 362,
+    "textFull": "Blason personnel de ser Hugh du Val",
+    "text": "Hugh du Val",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/c0/Blason-perso-hugh-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 363,
+    "textFull": "Blason personnel de ser Brynden Tully",
+    "text": "Brynden Tully",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/b5/Blason-perso-bryndenTully-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 364,
+    "textFull": "Blason personnel de ser Cleos Frey",
+    "text": "Cleos Frey",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/2d/Blason-perso-cleosFrey-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 365,
+    "textFull": "Blason personnel de Walder Frey (Grand Walder)",
+    "text": "Grand Walder Frey",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/5c/Blason-frey-alt3-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 366,
+    "textFull": "Blason personnel de Walder Frey (Petit Walder)",
+    "text": "Petit Walder Frey",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/7a/Blason-frey-alt2-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 367,
+    "textFull": "Blason personnel de Benfrey Frey",
+    "text": "Benfrey Frey",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f9/Blason-benfreyFrey-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 368,
+    "textFull": "Blason personnel de Walder Rivers",
+    "text": "Walder Rivers",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/10/Blason-perso-walderRivers-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 369,
+    "textFull": "Blason personnel d'Aemon Rivers",
+    "text": "Aemon Rivers",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a2/Blason-aemonRivers-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 370,
+    "textFull": "Blason personnel de Robert Nerbosc",
+    "text": "Robert Nerbosc",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/7c/Blason-perso-robertNerbosc-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 371,
+    "textFull": "Blason personnel de Roger Nerbosc",
+    "text": "Roger Nerbosc",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/c/ce/Blason-perso-rogerNerbosc-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 372,
+    "textFull": "Blason personnel de Roland Nerbosc",
+    "text": "Roland Nerbosc",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/03/Blason-perso-rolandNerbosc-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 373,
+    "textFull": "Blason personnel du roi Joffrey Baratheon",
+    "text": "Joffrey Baratheon",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/6e/Blason-perso-baratheonJof-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 374,
+    "textFull": "Blason personnel de ser Tybolt Lannister",
+    "text": "Tybolt Lannister",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/ee/Blason-perso-tyboltLannister-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 375,
+    "textFull": "Blason personnel de Tyrion Lannister",
+    "text": "Tyrion Lannister",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d4/Blason-lannister-alt2-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 376,
+    "textFull": "Blason personnel de ser Lancel Lannister",
+    "text": "Lancel Lannister",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/ea/Blason-lannister-alt3-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 377,
+    "textFull": "Blason personnel d'Aegon II Targaryen",
+    "text": "Aegon II Targaryen",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/9b/Blason-perso-aegon2Targaryen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 378,
+    "textFull": "Blason personnel d'Aemon Targaryen (Chevalier-Dragon)",
+    "text": "Aemon Tragaryen Chevalier-Dragon",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/78/Blason-perso-aemonTargaryen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 379,
+    "textFull": "Blason personnel du roi Maekar Targaryen",
+    "text": "Maekar Targaryen",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f7/Blason-perso-maekarTargaryen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 380,
+    "textFull": "Blason personnel du prince Valarr Targaryen",
+    "text": "Valarr Targaryen",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/46/Blason-perso-valarrTargaryen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 381,
+    "textFull": "Blason personnel du prince Daeron Targaryen",
+    "text": "Daeron Targaryen",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/16/Blason-perso-daeronTargaryen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 382,
+    "textFull": "Blason personnel du prince Aerion Targaryen",
+    "text": "Aerion Targaryen",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/ab/Blason-perso-aerionTargaryen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 383,
+    "textFull": "Blason personnel de la princesse Rhaenyra Targaryen",
+    "text": "Rhaenyra Targaryen",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/55/Blason-perso-rhaenyraTargaryen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 384,
+    "textFull": "Blason personnel d'Aegor Rivers",
+    "text": "Aegor Rivers",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/1/12/Blason-perso-aegorRivers-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 385,
+    "textFull": "Blason personnel de Brynden Rivers",
+    "text": "Brynden Rivers",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/74/Blason-perso-bryndenRivers-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 386,
+    "textFull": "Blason personnel de Daemon II Feunoyr",
+    "text": "Daemon II Feunoyr",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d5/Blason-jehan-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 387,
+    "textFull": "Blason personnel du roi Stannis Baratheon",
+    "text": "Stannis Baratheon",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/35/Blason-perso-stannisBaratheon-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 388,
+    "textFull": "Blason personnel de Parsifal Caron",
+    "text": "Parsifal Caron",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/83/Blason-parsifalCaron-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 389,
+    "textFull": "Blason personnel de ser Garlan Tyrell",
+    "text": "Garlan Tyrell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/7/76/Blason-perso-garlanTyrell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 390,
+    "textFull": "Blason personnel de ser Loras Tyrell",
+    "text": "Loras Tyrell",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/8f/Blason-perso-lorasTyrell-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 391,
+    "textFull": "Blason personnel de ser Robert Cendregu ",
+    "text": "Robert Cendregu ",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/2e/Blason-cendregue-alt-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 392,
+    "textFull": "Blason personnel de Quentyn Boule",
+    "text": "Quentyn Boule",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f6/Blason-boulenfeu-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 393,
+    "textFull": "Blason personnel de ser Bronn de la Néra",
+    "text": "Bronn",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/2c/Blason-bronn-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 394,
+    "textFull": "Blason personnel de Colen d'Etanverts",
+    "text": "Colen d'Etanverts",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/bc/Blason-colen-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 395,
+    "textFull": "Blason personnel de ser Tallad",
+    "text": "Ser Tallad",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/3/3e/Blason-tallad-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 396,
+    "textFull": "Blason personnel d'Illifer le Sans-le-Sol",
+    "text": "Illifer le Sans-le-Sol",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/28/Blason-illifer-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 397,
+    "textFull": "Blason personnel de Creighton Longuebranche",
+    "text": "Creighton Longuebranche",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/a/a1/Blason-perso-longuebranche-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 398,
+    "textFull": "Blason personnel de ser Ombrich",
+    "text": "Ser Ombrich",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/93/Blason-perso-ombrich-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 399,
+    "textFull": "Blason personnel de Lothor Brune",
+    "text": "Lothor Brune",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/e/e0/Blason-perso-lothorBrune-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 3
+  },
+  {
+    "idSigil": 400,
+    "textFull": "Blason personnel de ser Arlan de l'Arbre-sous",
+    "text": "Ser Arlan de l'Arbre-sous",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/8/82/Blason-perso-arlan-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 401,
+    "textFull": "Blason personnel de ser Duncan le Grand",
+    "text": "Ser Duncan",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/54/Blason-perso-dunk-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 402,
+    "textFull": "Blason personnel de ser Bennis",
+    "text": "Ser Bennis",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/fb/Blason-perso-bennis-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 403,
+    "textFull": "Blason personnel de ser Uthor Enverfeuille",
+    "text": "Uthor Enverfeuille",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/6/65/Blason-perso-uthor-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 404,
+    "textFull": "Blason personnel de ser Patrek du Mont-Real",
+    "text": "Ser Patrek du Mont-Real",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/b/bd/Blason-perso-patrek-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 405,
+    "textFull": "Blason personnel du Chevalier d'Aubier rieur",
+    "text": "Le chevalier d'Aubier rieur",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/5/5e/Blason-perso-aubier-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 406,
+    "textFull": "Blason personnel de Thomas the Threadbare",
+    "text": "Ser Thomas",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/0/0e/Blason-perso-thomas-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 407,
+    "textFull": "Blason personnel de Walder de Woodmere",
+    "text": "Walder de Woodmere",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/96/Blason-perso-walderWoodmere-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 408,
+    "textFull": "Blason personnel de Randor l'Exilé",
+    "text": "Randor l'Exilé",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/4/45/Blason-perso-randor-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 409,
+    "textFull": "Blason personnel de Wex des Traque-Sangs",
+    "text": "Wex des Traque-Sangs",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/9/92/Blason-perso-wex-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 410,
+    "textFull": "Blason personnel de lord Rossart",
+    "text": "Rossart",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/2/2d/Blason-perso-rossart-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 411,
+    "textFull": "Blason personnel d'Euron Greyjoy",
+    "text": "Euron Greyjoy",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f0/Blason-perso-euron-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 412,
+    "textFull": "Blason personnel d'Harrold Hardyng",
+    "text": "Harrold Hardyng",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/f/f6/Blason-harroldhardyng-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  },
+  {
+    "idSigil": 413,
+    "textFull": "Blason personnel d'Isembard Arryn",
+    "text": "Isembard Arryn",
+    "imageURL": "https://www.lagardedenuit.com/wiki/images/d/d7/Blason-arryn-goeville-2014-v01-256px.png",
+    "imageWidth": 256,
+    "imageHeight": 256,
+    "region": "Blasons personnels",
+    "level": 4
+  }
+]

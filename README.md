@@ -1,4 +1,3 @@
-
 # 🛡️ A Song of Ice and Fire Heraldry Quiz
 
 A lightweight web application that generates interactive quizzes based on the heraldic symbols from the *A Song of Ice and Fire* universe by George R. R. Martin.
@@ -35,7 +34,6 @@ This project is licensed under the **GNU General Public License v3.0**.
 You are free to use, modify, and distribute this software under the terms of the GPLv3. See the LICENSE file for full details.
 
 All heraldic images was performed by Evrach. It appears on La Garde de Nuit encyclopedia under a Creative Commons by-sa 4.0 licence.  
+
 Used with permission and for non-commercial, educational purposes only.
-
-
 

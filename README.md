@@ -11,12 +11,12 @@ A lightweight web application that generates interactive quizzes based on the he
 
 ## 🖼️ Image Attribution
 
-All heraldic images are hosted by [La Garde de Nuit](https://www.lagardedenuit.com/wiki/index) dedicated to *A Song of Ice and Fire*.  
+All heraldic images are hosted by [La Garde de Nuit](https://www.lagardedenuit.com/wiki/index), French-speaking web site dedicated to *A Song of Ice and Fire* and George R. R. Martin's work.  
 Heraldic artwork was created by **Evrach** and used with proper attribution.
 
 ## 🧰 Tech Stack
 
-- **HTML/CSS/JavaScript** — Vanilla frontend
+- **HTML/CSS/JavaScript** 
 - **Framework** — React
 - **Static Hosting** — Compatible with GitHub Pages, Netlify, Vercel, etc.
 

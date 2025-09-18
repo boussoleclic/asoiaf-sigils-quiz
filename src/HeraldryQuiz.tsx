@@ -24,6 +24,52 @@ type Question = {
   answer: number
 }
 
+// Utility: Fisher-Yates shuffle algorithm for better randomness
+function shuffleArray<T>(array: T[]): T[] {
+  const arr = [...array]
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[arr[i], arr[j]] = [arr[j], arr[i]]
+  }
+  return arr
+}
+
+// Generate quiz questions
+function generateQuestions(sigils: Sigil[], level: number, count: number = 10): Question[] {
+  // Filter sigils according to the chosen difficulty level
+  const filtered = sigils.filter((s) => s.level <= level)
+
+  // Randomly pick "count" sigils (or fewer if not enough available)
+  const chosen = shuffleArray(filtered).slice(0, count)
+
+  return chosen.map((sigil, index) => {
+    // Select other random options, making sure they are different from the correct answer
+    const otherChoices = shuffleArray(
+      filtered.filter((s) => s.idSigil !== sigil.idSigil)
+    ).slice(0, 3)
+
+    // Merge correct answer with distractors
+    const allOptions = [...otherChoices.map((s) => s.text), sigil.text]
+
+    // Shuffle options so the correct answer is not always at the same position
+    const shuffledOptions = shuffleArray(allOptions)
+
+    // Get the index of the correct answer in the shuffled array
+    const answerIndex = shuffledOptions.indexOf(sigil.text)
+
+    return {
+      id: index + 1,
+      image: sigil.imageURL,
+      imageAlt: sigil.textFull,
+      imageWidth: sigil.imageWidth,
+      imageHeight: sigil.imageHeight,
+      options: shuffledOptions,
+      answer: answerIndex,
+    }
+  })
+}
+
+
 export default function HeraldryQuiz() {
   const [sigils, setSigils] = useState<Sigil[]>([])
   const [questions, setQuestions] = useState<Question[]>([])
@@ -61,33 +107,8 @@ export default function HeraldryQuiz() {
   const startQuiz = (level: number) => {
     if (!sigils.length) return
 
-    // Difficulty level filter → The selected level includes the questions from the levels below too
-	//Difficulty level can be changed gor each question in sigils_db.json
-    const filtered = sigils.filter((s) => s.level <= level)
-
-    // Randomized selection, limittaion to 10 questions
-    const chosen = filtered.sort(() => Math.random() - 0.5).slice(0, 10)
-
-    const generatedQuestions: Question[] = chosen.map((sigil, index) => {
-      const otherChoices = filtered
-        .filter((s) => s.idSigil !== sigil.idSigil)
-        .sort(() => Math.random() - 0.5)
-        .slice(0, 3)
-
-      const allOptions = [...otherChoices.map((s) => s.text), sigil.text]
-      const shuffledOptions = allOptions.sort(() => Math.random() - 0.5)
-      const answerIndex = shuffledOptions.indexOf(sigil.text)
-
-      return {
-        id: index + 1,
-        image: sigil.imageURL,
-        imageAlt: sigil.textFull,
-        imageWidth: sigil.imageWidth,
-        imageHeight: sigil.imageHeight,
-        options: shuffledOptions,
-        answer: answerIndex,
-      }
-    })
+	// number of questions is the parameter
+	 const generatedQuestions = generateQuestions(sigils, level, 10)
 
     setQuestions(generatedQuestions)
     setLevelChoice(level)
@@ -161,7 +182,7 @@ export default function HeraldryQuiz() {
             className="bg-yellow-900 hover:bg-yellow-800 text-white rounded-2xl"
             onClick={() => setLevelChoice(null)}
           >
-            Rejouer
+            Menu principal
           </Button>
         </CardFooter>
       </Card>

@@ -7,7 +7,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 2,
@@ -27,7 +27,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 4,
@@ -37,7 +37,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 5,
@@ -47,7 +47,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 6,
@@ -57,7 +57,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 7,
@@ -67,7 +67,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 8,
@@ -77,7 +77,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 9,
@@ -87,7 +87,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 10,
@@ -97,7 +97,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 11,
@@ -107,7 +107,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 12,
@@ -117,7 +117,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 13,
@@ -127,7 +127,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 14,
@@ -137,7 +137,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 15,
@@ -157,7 +157,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 17,
@@ -167,7 +167,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 18,
@@ -177,7 +177,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 19,
@@ -187,7 +187,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 20,
@@ -197,7 +197,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 21,
@@ -207,7 +207,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 22,
@@ -227,7 +227,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 24,
@@ -237,7 +237,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 25,
@@ -257,7 +257,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 27,
@@ -267,7 +267,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 28,
@@ -277,7 +277,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 1
+    "level": 2
   },
   {
     "idSigil": 29,
@@ -287,7 +287,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 30,
@@ -297,7 +297,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 31,
@@ -307,7 +307,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 32,
@@ -317,7 +317,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 1
+    "level": 2
   },
   {
     "idSigil": 33,
@@ -327,7 +327,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 34,
@@ -337,7 +337,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 35,
@@ -347,7 +347,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 36,
@@ -357,7 +357,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 37,
@@ -377,7 +377,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 39,
@@ -387,7 +387,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 40,
@@ -397,7 +397,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 41,
@@ -407,7 +407,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 42,
@@ -417,7 +417,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 43,
@@ -427,7 +427,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 44,
@@ -437,7 +437,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Nord",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 45,
@@ -447,7 +447,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 46,
@@ -457,7 +457,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 47,
@@ -477,7 +477,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 49,
@@ -507,7 +507,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 52,
@@ -517,7 +517,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 53,
@@ -527,7 +527,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 54,
@@ -547,7 +547,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 56,
@@ -557,7 +557,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 57,
@@ -567,7 +567,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 58,
@@ -577,7 +577,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 59,
@@ -587,7 +587,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 60,
@@ -597,7 +597,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 61,
@@ -607,7 +607,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 62,
@@ -617,7 +617,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 63,
@@ -627,7 +627,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 64,
@@ -637,7 +637,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 65,
@@ -647,7 +647,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 66,
@@ -657,7 +657,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Iles de Fer",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 67,
@@ -687,7 +687,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 70,
@@ -697,7 +697,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 71,
@@ -707,7 +707,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 72,
@@ -717,7 +717,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 73,
@@ -727,7 +727,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 74,
@@ -737,7 +737,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 75,
@@ -747,7 +747,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 76,
@@ -757,7 +757,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 77,
@@ -767,7 +767,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 78,
@@ -777,7 +777,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 79,
@@ -787,7 +787,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 80,
@@ -797,7 +797,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 81,
@@ -807,7 +807,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 82,
@@ -817,7 +817,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 83,
@@ -827,7 +827,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 84,
@@ -837,7 +837,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 85,
@@ -847,7 +847,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 86,
@@ -857,7 +857,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 87,
@@ -867,7 +867,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 88,
@@ -877,7 +877,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 89,
@@ -887,7 +887,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 90,
@@ -897,7 +897,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 91,
@@ -907,7 +907,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 92,
@@ -917,7 +917,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 93,
@@ -927,7 +927,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 94,
@@ -937,7 +937,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 95,
@@ -947,7 +947,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 96,
@@ -957,7 +957,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 97,
@@ -967,7 +967,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 98,
@@ -977,7 +977,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Val d'Arryn",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 99,
@@ -997,7 +997,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 101,
@@ -1007,7 +1007,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 102,
@@ -1037,7 +1037,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 105,
@@ -1047,7 +1047,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 106,
@@ -1057,7 +1057,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 107,
@@ -1107,7 +1107,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 112,
@@ -1117,7 +1117,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 113,
@@ -1127,7 +1127,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 114,
@@ -1137,7 +1137,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 115,
@@ -1147,7 +1147,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 116,
@@ -1157,7 +1157,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 117,
@@ -1167,7 +1167,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 118,
@@ -1177,7 +1177,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 119,
@@ -1197,7 +1197,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 121,
@@ -1207,7 +1207,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 122,
@@ -1217,7 +1217,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 123,
@@ -1237,7 +1237,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 125,
@@ -1247,7 +1247,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 126,
@@ -1257,7 +1257,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 127,
@@ -1267,7 +1267,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 128,
@@ -1277,7 +1277,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 129,
@@ -1287,7 +1287,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 130,
@@ -1297,7 +1297,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 131,
@@ -1307,7 +1307,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 132,
@@ -1317,7 +1317,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 133,
@@ -1327,7 +1327,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 134,
@@ -1347,7 +1347,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 136,
@@ -1357,7 +1357,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 137,
@@ -1367,7 +1367,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 138,
@@ -1377,7 +1377,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Conflans",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 139,
@@ -1397,7 +1397,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 141,
@@ -1407,7 +1407,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 142,
@@ -1417,7 +1417,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 143,
@@ -1427,7 +1427,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 144,
@@ -1447,7 +1447,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 146,
@@ -1467,7 +1467,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 148,
@@ -1477,7 +1477,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 149,
@@ -1487,7 +1487,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 150,
@@ -1497,7 +1497,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 151,
@@ -1507,7 +1507,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 152,
@@ -1517,7 +1517,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 153,
@@ -1527,7 +1527,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 154,
@@ -1537,7 +1537,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 155,
@@ -1547,7 +1547,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 156,
@@ -1557,7 +1557,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 157,
@@ -1567,7 +1567,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 158,
@@ -1577,7 +1577,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 159,
@@ -1587,7 +1587,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 160,
@@ -1597,7 +1597,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 161,
@@ -1607,7 +1607,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 162,
@@ -1627,7 +1627,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 164,
@@ -1637,7 +1637,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 165,
@@ -1647,7 +1647,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 166,
@@ -1657,7 +1657,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 167,
@@ -1667,7 +1667,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 168,
@@ -1677,7 +1677,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 169,
@@ -1687,7 +1687,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 170,
@@ -1697,7 +1697,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 171,
@@ -1707,7 +1707,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 172,
@@ -1717,7 +1717,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 173,
@@ -1727,7 +1727,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 174,
@@ -1737,7 +1737,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 175,
@@ -1747,7 +1747,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 176,
@@ -1757,7 +1757,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 177,
@@ -1767,7 +1767,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 178,
@@ -1777,7 +1777,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 179,
@@ -1787,7 +1787,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 180,
@@ -1797,7 +1797,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 181,
@@ -1807,7 +1807,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 182,
@@ -1817,7 +1817,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 183,
@@ -1827,7 +1827,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 184,
@@ -1837,7 +1837,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 185,
@@ -1847,7 +1847,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 186,
@@ -1857,7 +1857,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 187,
@@ -1867,7 +1867,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Ouest",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 188,
@@ -1877,7 +1877,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 189,
@@ -1887,7 +1887,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 190,
@@ -1897,7 +1897,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 191,
@@ -1907,7 +1907,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 192,
@@ -1917,7 +1917,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 193,
@@ -1927,7 +1927,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 194,
@@ -1937,7 +1937,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 195,
@@ -1947,7 +1947,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 196,
@@ -1957,7 +1957,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 197,
@@ -1967,7 +1967,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 198,
@@ -1977,7 +1977,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 199,
@@ -1987,7 +1987,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 200,
@@ -1997,7 +1997,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 201,
@@ -2007,7 +2007,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 202,
@@ -2027,7 +2027,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 204,
@@ -2037,7 +2037,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 205,
@@ -2047,7 +2047,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 206,
@@ -2057,7 +2057,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 207,
@@ -2067,7 +2067,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 208,
@@ -2077,7 +2077,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 209,
@@ -2087,7 +2087,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 210,
@@ -2097,7 +2097,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 211,
@@ -2107,7 +2107,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 212,
@@ -2117,7 +2117,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 213,
@@ -2127,7 +2127,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 214,
@@ -2137,7 +2137,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 215,
@@ -2147,7 +2147,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 216,
@@ -2157,7 +2157,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 217,
@@ -2167,7 +2167,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 218,
@@ -2177,7 +2177,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 219,
@@ -2187,7 +2187,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 220,
@@ -2197,7 +2197,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 221,
@@ -2207,7 +2207,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 222,
@@ -2227,7 +2227,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 224,
@@ -2247,7 +2247,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de la Couronne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 226,
@@ -2267,7 +2267,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 228,
@@ -2277,7 +2277,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 229,
@@ -2287,7 +2287,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 230,
@@ -2297,7 +2297,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 231,
@@ -2307,7 +2307,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 232,
@@ -2337,7 +2337,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 235,
@@ -2357,7 +2357,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 237,
@@ -2367,7 +2367,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 238,
@@ -2377,8 +2377,8 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
-  },
+    "level": 4
+  }
   {
     "idSigil": 239,
     "textFull": "Blason de la maison Grandison",
@@ -2387,7 +2387,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 240,
@@ -2397,7 +2397,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 241,
@@ -2407,7 +2407,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 242,
@@ -2417,7 +2417,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 243,
@@ -2427,7 +2427,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 244,
@@ -2437,7 +2437,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 245,
@@ -2447,7 +2447,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 246,
@@ -2467,7 +2467,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 248,
@@ -2477,7 +2477,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 249,
@@ -2487,7 +2487,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 250,
@@ -2497,7 +2497,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 251,
@@ -2507,7 +2507,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 252,
@@ -2517,7 +2517,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 253,
@@ -2527,7 +2527,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 254,
@@ -2547,7 +2547,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 256,
@@ -2557,8 +2557,8 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
-  },
+    "level": 4
+  }
   {
     "idSigil": 257,
     "textFull": "Blason de la maison Torth",
@@ -2577,7 +2577,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 259,
@@ -2587,7 +2587,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 260,
@@ -2597,7 +2597,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 261,
@@ -2607,7 +2607,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Terres de l'Orage",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 262,
@@ -2617,7 +2617,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 263,
@@ -2627,7 +2627,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 264,
@@ -2637,7 +2637,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 265,
@@ -2647,7 +2647,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 266,
@@ -2657,7 +2657,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 267,
@@ -2667,7 +2667,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 268,
@@ -2677,7 +2677,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 269,
@@ -2687,7 +2687,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 270,
@@ -2697,7 +2697,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 271,
@@ -2707,7 +2707,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 272,
@@ -2717,7 +2717,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 273,
@@ -2727,7 +2727,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 274,
@@ -2737,8 +2737,8 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
-  },
+    "level": 4
+  }4
   {
     "idSigil": 275,
     "textFull": "Blason de la maison Crane",
@@ -2747,7 +2747,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 276,
@@ -2757,7 +2757,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 277,
@@ -2767,7 +2767,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 278,
@@ -2777,7 +2777,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 279,
@@ -2797,7 +2797,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 281,
@@ -2827,7 +2827,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 284,
@@ -2837,7 +2837,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 285,
@@ -2847,7 +2847,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 286,
@@ -2857,7 +2857,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 287,
@@ -2867,7 +2867,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 1
   },
   {
     "idSigil": 288,
@@ -2877,7 +2877,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 289,
@@ -2887,7 +2887,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 290,
@@ -2897,7 +2897,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 291,
@@ -2917,7 +2917,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 293,
@@ -2927,7 +2927,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 294,
@@ -2937,7 +2937,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 295,
@@ -2947,7 +2947,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 296,
@@ -2957,7 +2957,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 297,
@@ -2967,7 +2967,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 298,
@@ -2977,7 +2977,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 299,
@@ -2987,7 +2987,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 300,
@@ -2997,7 +2997,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 301,
@@ -3007,7 +3007,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 302,
@@ -3017,7 +3017,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 303,
@@ -3027,7 +3027,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 304,
@@ -3037,7 +3037,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 305,
@@ -3047,7 +3047,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 306,
@@ -3067,7 +3067,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 308,
@@ -3077,7 +3077,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 309,
@@ -3087,7 +3087,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 310,
@@ -3097,7 +3097,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 311,
@@ -3107,7 +3107,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 312,
@@ -3117,7 +3117,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 313,
@@ -3127,7 +3127,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 314,
@@ -3137,7 +3137,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 315,
@@ -3147,7 +3147,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 316,
@@ -3157,7 +3157,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 317,
@@ -3167,7 +3167,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 318,
@@ -3177,7 +3177,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 319,
@@ -3217,7 +3217,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 323,
@@ -3227,7 +3227,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 324,
@@ -3237,7 +3237,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 325,
@@ -3247,7 +3247,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 326,
@@ -3257,7 +3257,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 327,
@@ -3267,7 +3267,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 328,
@@ -3277,7 +3277,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Bief",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 329,
@@ -3287,7 +3287,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 330,
@@ -3297,7 +3297,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 331,
@@ -3307,7 +3307,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 332,
@@ -3317,7 +3317,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 333,
@@ -3327,7 +3327,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 334,
@@ -3337,7 +3337,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 335,
@@ -3347,7 +3347,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 336,
@@ -3367,7 +3367,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 338,
@@ -3377,7 +3377,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 339,
@@ -3387,7 +3387,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 340,
@@ -3397,7 +3397,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 341,
@@ -3407,7 +3407,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 342,
@@ -3417,7 +3417,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 343,
@@ -3427,7 +3427,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 344,
@@ -3437,7 +3437,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Dorne",
-    "level": 2
+    "level": 4
   },
   {
     "idSigil": 345,
@@ -3447,7 +3447,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Ordres militaires et mercenaires",
-    "level": 2
+    "level": 1
   },
   {
     "idSigil": 346,
@@ -3457,7 +3457,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Ordres militaires et mercenaires",
-    "level": 2
+    "level": 1
   },
   {
     "idSigil": 347,
@@ -3467,7 +3467,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Ordres militaires et mercenaires",
-    "level": 2
+    "level": 1
   },
   {
     "idSigil": 348,
@@ -3487,7 +3487,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Ordres militaires et mercenaires",
-    "level": 2
+    "level": 3
   },
   {
     "idSigil": 350,
@@ -3497,7 +3497,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Ordres militaires et mercenaires",
-    "level": 2
+    "level": 1
   },
   {
     "idSigil": 351,
@@ -3507,7 +3507,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Ordres militaires et mercenaires",
-    "level": 2
+    "level": 1
   },
   {
     "idSigil": 352,
@@ -3537,7 +3537,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Ordres militaires et mercenaires",
-    "level": 2
+    "level": 1
   },
   {
     "idSigil": 355,
@@ -3557,7 +3557,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 357,
@@ -3567,7 +3567,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 1
   },
   {
     "idSigil": 358,
@@ -3577,7 +3577,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 359,
@@ -3587,7 +3587,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 360,
@@ -3597,7 +3597,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 361,
@@ -3607,7 +3607,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 362,
@@ -3617,7 +3617,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 363,
@@ -3627,7 +3627,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 1
   },
   {
     "idSigil": 364,
@@ -3637,7 +3637,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 2
   },
   {
     "idSigil": 365,
@@ -3647,7 +3647,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 366,
@@ -3657,7 +3657,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 367,
@@ -3667,7 +3667,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 368,
@@ -3677,7 +3677,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 2
   },
   {
     "idSigil": 369,
@@ -3687,7 +3687,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 370,
@@ -3697,7 +3697,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 371,
@@ -3707,7 +3707,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 372,
@@ -3717,7 +3717,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 373,
@@ -3727,7 +3727,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 1
   },
   {
     "idSigil": 374,
@@ -3747,7 +3747,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 1
   },
   {
     "idSigil": 376,
@@ -3757,7 +3757,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 2
   },
   {
     "idSigil": 377,
@@ -3787,7 +3787,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 2
   },
   {
     "idSigil": 380,
@@ -3817,7 +3817,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 2
   },
   {
     "idSigil": 383,
@@ -3827,18 +3827,18 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 1
   },
   {
     "idSigil": 384,
-    "textFull": "Blason personnel d'Aegor Rivers",
-    "text": "Aegor Rivers",
+    "textFull": "Blason personnel d'Aegor Rivers, dit Freuxsanglant",
+    "text": "Aegor Rivers (Freuxsanglant)",
     "imageURL": "https://www.lagardedenuit.com/wiki/images/1/12/Blason-perso-aegorRivers-2014-v01-256px.png",
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
-  },
+    "level": 2
+  }
   {
     "idSigil": 385,
     "textFull": "Blason personnel de Brynden Rivers",
@@ -3847,7 +3847,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 2
   },
   {
     "idSigil": 386,
@@ -3857,7 +3857,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 2
   },
   {
     "idSigil": 387,
@@ -3867,7 +3867,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 1
   },
   {
     "idSigil": 388,
@@ -3897,7 +3897,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 2
   },
   {
     "idSigil": 391,
@@ -3907,7 +3907,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 392,
@@ -3927,7 +3927,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 1
   },
   {
     "idSigil": 394,
@@ -3937,7 +3937,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 395,
@@ -3947,7 +3947,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 396,
@@ -3957,7 +3957,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 397,
@@ -3967,7 +3967,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 4
   },
   {
     "idSigil": 398,
@@ -3977,7 +3977,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 3
+    "level": 2
   },
   {
     "idSigil": 399,
@@ -3997,7 +3997,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 4
+    "level": 3
   },
   {
     "idSigil": 401,
@@ -4007,7 +4007,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 4
+    "level": 1
   },
   {
     "idSigil": 402,
@@ -4017,7 +4017,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 4
+    "level": 2
   },
   {
     "idSigil": 403,
@@ -4027,7 +4027,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 4
+    "level": 3
   },
   {
     "idSigil": 404,
@@ -4037,7 +4037,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 4
+    "level": 3
   },
   {
     "idSigil": 405,
@@ -4047,7 +4047,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 4
+    "level": 2
   },
   {
     "idSigil": 406,
@@ -4107,7 +4107,7 @@
     "imageWidth": 256,
     "imageHeight": 256,
     "region": "Blasons personnels",
-    "level": 4
+    "level": 3
   },
   {
     "idSigil": 412,
